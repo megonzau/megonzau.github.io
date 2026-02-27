@@ -19,9 +19,7 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    tagline: "Economist | Data Scientist"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "MakeOwnable" # Twitter/X handle for Twitter Cards (without @)
@@ -37,11 +35,11 @@ hugoblox:
     pack: "minimal"
     # Optional: Override theme pack colors
     colors:
-      primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "gray" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "gray"
+      neutral: "gray" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
-    colors_light: {}
+    colors_light: { secondary: blue }
     colors_dark: { primary: "" }
     # Optional: Semantic surface color overrides
     surfaces:
@@ -91,7 +89,7 @@ hugoblox:
     # Feature toggles
     search: true
     theme_toggle: true
-    theme_picker: true
+    theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:
