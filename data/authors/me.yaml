@@ -13,7 +13,7 @@ postnominals: " "
 status:
   icon: "☕️"
 role: "Economist | Data Scientist"
-bio: "Marcos González Auhing is an economist with a strong quantitative background and experience in data analysis, machine learning, and econometric modeling applied to social, environmental, and economic topics. He has held leadership and consulting roles across the public sector and multilateral projects, translating data into evidence-based insights for decision-making. His work has been presented in academic forums, including GTAP conferences."
+bio: "<p align=\"justify\"> Marcos González Auhing is an economist with a strong quantitative background and experience in data analysis, machine learning, and econometric modeling applied to social, environmental, and economic topics. He has held leadership and consulting roles across the public sector and multilateral projects, translating data into evidence-based insights for decision-making. His work has been presented in academic forums, including GTAP conferences. </p>"
 affiliations:
   - name: "Meta AI"
     url: "https://ai.meta.com/"
