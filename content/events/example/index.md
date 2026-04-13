@@ -1,5 +1,5 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
+title: "Create Beautiful Presentations with Mrkdown"
 date: '2017-01-01T00:00:00Z'
 
 event_name: HugoBlox Showcase

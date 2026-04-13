@@ -7,7 +7,7 @@ name:
   family: "González Auhing"
   alternate: ""
   pronunciation: ""
-  pronouns: "he/him"
+  pronouns: ""
   middle: ""
 postnominals: " "
 status:
@@ -15,8 +15,8 @@ status:
 role: "Economist | Data Scientist"
 bio: "<p align=\"justify\"> Marcos González Auhing is an economist with a strong quantitative background and experience in data analysis, machine learning, and econometric modeling applied to social, environmental, and economic topics. He has held leadership and consulting roles across the public sector and multilateral projects, translating data into evidence-based insights for decision-making. His work has been presented in academic forums, including GTAP conferences. </p>"
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: ""
+    url: ""
 links:
   - icon: "brands/github"
     url: "https://github.com/megonzau"
@@ -28,72 +28,125 @@ links:
     url: "marcosgonza.eau@gmail.com"
     label: "Email"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
+  - "Econometrics"
+  - "Macroeconomics"
   - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Social and Economic Networks"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
+  - degree: "MSc. in Economics"
+    institution: "EAFIT University"
+    start: "2020-02-01"
+    end: "2021-09-01"
+    summary: "Thesis on the economic impacts of environmental policies in Colombia’s power sector using a CGE model.\n"
     button:
       text: "Download dissertation"
-      url: "/resume.pdf"
+      url: "https://repository.eafit.edu.co/entities/publication/1dd3f858-afda-43ed-865a-2922b4f1d9b3"
       icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
-experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
+  - degree: "BSc. In Economics"
+    institution: "Escuela Superior Politécnica del Litoral (ESPOL University)"
+    start: "2015-10-15"
+    end: "2020-01-31"
+    summary: "Research thesis on productivity and production function estimation in Ecuador’s cocoa sector.\n"
     button:
-      text: "View portfolio"
-      url: "/"
+      text: "Download dissertation"
+      url: "https://www.dspace.espol.edu.ec/handle/123456789/51736"
       icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+
+experience:
+  - role: "Director of Technical Assistance Development"
+    org: "Development Bank of Ecuador"
+    start: "2025-05-01"
+    end: "2026-02-01"
+    summary: "Designed technical methodologies for institutional and financial diagnostics, and supported evidence-based decision-making for decentralized governments and public enterprises.\n"
+    button:
+      text: ""
+      url: ""
+      icon: ""
+
+  - role: "External Consultant for Products and Services"
+    org: "Inter-American Development Bank (IDB)"
+    start: "2024-07-01"
+    end: "2025-04-01"
+    summary: "Developed economic valuation models and conducted policy-oriented analysis to support sustainable financial mechanisms and conservation commitments.\n"
+
+  - role: "National Director for Real Sector Policies"
+    org: "Ministry of Economy and Finance"
+    start: "2022-11-01"
+    end: "2023-12-01"
+    summary: "Produced sectoral economic analyses on agriculture, trade, and industry, assessed public policies in the social, environmental, and fiscal domains, and engaged with multilateral institutions in the development of sustainable finance and environmental policy initiatives.\n"
+
+  - role: "Technical General Coordinator"
+    org: "Social Registry Unit"
+    start: "2022-03-01"
+    end: "2022-10-01"
+    summary: "Developed machine learning methodologies and policy analysis tools to strengthen the updating and use of social registry information, while leading technical teams.\n"
+
+  - role: "Advisor to the Executive Directorate"
+    org: "Social Registry Unit"
+    start: "2021-09-01"
+    end: "2022-03-01"
+    summary: "Provided technical support for social policy research, interinstitutional cooperation, and statistical reporting based on administrative data.\n"
+
+  - role: "Teaching Assistant"
+    org: "EAFIT University"
+    start: "2021-04-01"
+    end: "2021-06-01"
+    summary: "Supported graduate instruction in Advanced Microeconomics through tutoring and academic guidance.\n"
+
+  - role: "Lecturer"
+    org: "EAFIT University"
+    start: "2021-03-01"
+    end: "2021-06-01"
+    summary: "Taught undergraduate Macroeconomics, with emphasis on monetary policy, fiscal policy, and balance of payments analysis.\n"
+
+  - role: "Research Assistant"
+    org: "EAFIT University"
+    start: "2020-02-01"
+    end: "2021-06-01"
+    summary: "Conducted macroeconomic research, including nowcasting models and policy analysis on environmental and economic issues.\n"
+
+  - role: "Research Assistant"
+    org: "Escuela Superior Politécnica del Litoral (ESPOL)"
+    start: "2019-04-01"
+    end: "2020-01-01"
+    summary: "Analyzed agricultural microdata for spatial research on crop production and plant disease diffusion.\n"
+
+
+
+
 skills:
   - name: "Technical Skills"
     items:
       - label: "Python"
+        level: 5      
+      - label: "SQL"
+        level: 4
+      - label: "STATA"
         level: 5
       - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
         level: 4
+
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
-        level: 5
+        level: 4
       - label: "Conference Presentations"
         level: 4
       - label: "Grant Proposals"
         level: 4
 languages:
   - name: "English"
+    level: 4
+    label: "TOELF 96/120"
+  - name: "Spanish"
     level: 5
     label: "Native"
-  - name: "Spanish"
-    level: 4
-    label: "Fluent"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  - title: "Full Scholarship Award"
+    awarder: "EAFIT University"
+    date: "2020-01-01"
+    summary: "Received a full scholarship to undertake graduate studies in Economics at EAFIT University."
+    icon: "hero/academic-cap"
 ids:
   google_scholar: "lPvAfQkAAAAJ"
   orcid: "0000-0002-5488-2737"
